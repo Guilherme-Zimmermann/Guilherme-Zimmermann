@@ -5,8 +5,7 @@
 
 ## My name is Guilherme Zimmermann
 ( Java | Spring Boot ) 🚀
-- 💻 Back-end developer -> Seeking to become a Fullstack developer.
-- 📚 Studiyng Front-end. 
+- 💻 Back-end developer 
 - 🎓 Information Systems Student.
 - 🌐 Passionate about development.
 - 💡 Love a good challenge.
